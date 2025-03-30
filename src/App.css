@@ -1,0 +1,9 @@
+.streetViewWrapper {
+  height: 400px;
+  width: 100%;
+}
+
+.mapContainer {
+  height: 400px;
+  width: 800px;
+}
